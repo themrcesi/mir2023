@@ -1,1 +1,8 @@
-.ipynb
+*.ipynb
+*.p
+.ipynb_checkpoints
+.DS_Store
+.vscode
+__pycache__/
+*.py[cod]
+*$py.class
