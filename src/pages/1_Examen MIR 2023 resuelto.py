@@ -4,7 +4,6 @@ from matplotlib import pyplot as plt
 
 DATA_FILE = 'src/data/final_results.csv'
 
-st.set_page_config(page_title="Examen MIR 2023 resuelto", page_icon="🤖")
 st.sidebar.header('Examen MIR 2023 resulto')
 st.sidebar.markdown("""
 - [Metodología](#header_metodologia)
