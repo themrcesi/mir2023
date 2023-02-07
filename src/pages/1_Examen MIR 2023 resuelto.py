@@ -3,6 +3,14 @@ import streamlit as st
 from matplotlib import pyplot as plt
 
 DATA_FILE = 'src/data/final_results.csv'
+st.set_page_config(page_title="¿Aprueba ChatGPT el examen MIR 2023?")
+
+hide_menu_style = """
+        <style>
+        #MainMenu {visibility: hidden;}
+        </style>
+        """
+st.markdown(hide_menu_style, unsafe_allow_html=True)
 
 st.sidebar.header('Examen MIR 2023 resulto')
 st.sidebar.markdown("""

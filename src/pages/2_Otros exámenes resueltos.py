@@ -2,8 +2,14 @@ import pandas as pd
 import streamlit as st
 
 DATA_FILE = 'data/final_results.csv'
+st.set_page_config(page_title="¿Aprueba ChatGPT el examen MIR 2023?")
 
-st.set_page_config(page_title="Otros exámenes resueltos", page_icon="🗒️")
+hide_menu_style = """
+        <style>
+        #MainMenu {visibility: hidden;}
+        </style>
+        """
+st.markdown(hide_menu_style, unsafe_allow_html=True)
 
 st.title('Otros exámenes resueltos')
 

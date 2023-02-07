@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.set_page_config(page_title="¿Aprueba ChatGPT el examen MIR 2023?", page_icon="🏠")
+st.set_page_config(page_title="¿Aprueba ChatGPT el examen MIR 2023?")
 
 st.title('¿Aprueba ChatGPT el examen MIR 2023? Spoiler: la respuesta es no.')
 
