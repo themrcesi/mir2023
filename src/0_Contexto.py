@@ -12,7 +12,7 @@ hide_menu_style = """
         #MainMenu {visibility: hidden;}
         </style>
         """
-#st.markdown(hide_menu_style, unsafe_allow_html=True)
+st.markdown(hide_menu_style, unsafe_allow_html=True)
 st.markdown(
 """
 [ChatGPT](https://openai.com/blog/chatgpt/) ha supuesto una revolución en el mundo de la Inteligencia Artificial con la multitud de aplicaciones que han surgido a partir de su lanzamiento. Su capacidad avanzada de comprensión y generación de texto lo han convertido en uno de los más (sino el más) potentes Modelos de Lenguaje (LLMs).
