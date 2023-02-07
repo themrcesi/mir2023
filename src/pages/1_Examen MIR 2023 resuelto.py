@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 from matplotlib import pyplot as plt
 
-DATA_FILE = 'data/final_results.csv'
+DATA_FILE = 'src/data/final_results.csv'
 
 st.set_page_config(page_title="Examen MIR 2023 resuelto", page_icon="🤖")
 st.sidebar.header('Examen MIR 2023 resulto')
