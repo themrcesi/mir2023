@@ -114,6 +114,6 @@ ChatGPT se quedaría a las puertas de aprobar el MIR 2023, necesitando unas 12 p
 
 Sin embargo, se ha demostrado que es capaz de aprobar otros exámenes, todos ellos en inglés. Es precisamente ésto lo que puede hacer que el resultado de este estudio sea el que es, siendo posible que los resultados mejorasen de realizarse el examen en inglés. En la siguiente página se pueden encontrar varios ejemplos de exámenes que ChatGPT sí ha conseguido realizar de manera satisfactoria.
 
-Finalmente, nos surge la duda de si con otro modelo (por ejemplo, *text-davinci-003* de GPT3) sería posible conseguir mejores resultados después de hacer un pequeño *finetuning* con modelos de años anteriores. Pero eso me lo guardo para el próximo capítulo 😉.
+Finalmente, nos surge la duda de si con otro modelo (por ejemplo, *text-davinci-003* de GPT3) sería posible conseguir mejores resultados después de hacer un pequeño *finetuning* con modelos de exámenes de años anteriores. Pero eso me lo guardo para el próximo capítulo 😉.
 """)
 
